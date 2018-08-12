@@ -33,7 +33,7 @@ I hope to develop the skills needed to kick start a career in games development 
 
 
 ## Ideal Job
-# Junior Front-end Developer
+### Junior Front-end Developer
 
 ![Screenshot of Job](images/jobdescription.PNG)
 
