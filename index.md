@@ -1,8 +1,3 @@
-# Introduction to Information to Technology
-
-# Assignment 1: My Profile
-
-
 
 ## Personal Information
 
