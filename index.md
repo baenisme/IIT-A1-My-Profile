@@ -40,7 +40,7 @@ I hope to develop the skills needed to kick start a career in games development 
 ## Ideal Job
 [Link to Job](https://www.seek.com.au/job/36927758?type=standard)
 
-![Screenshot of Job](\images\jobdescription.png)
+![Screenshot of Job](images/jobdescription.png)
 
 ### Job Description
 The job is to be a junior front-end developer for a digital agency. You would be working under senior and mid level front-end developers, and receive tasks from them. You would work with creative and digital teams to convert ideas into presented visual material using a variety of methods.
@@ -80,17 +80,17 @@ I would draft a portfolio of my past work to express my literacy in the variety 
 ## Personal Profile
 
 ### Myers-Briggs Results
-![Results](\images\myersbriggs.png)
+![Results](images/myersbriggs.png)
 
 These results were from the website _https://mbti.bz/en_. Since I place between 50% - 54% in Sensation/Intuition and Feeling/Thinking my personality type could be undetermined, but this website categorised me as ISFP. On the website _16personalities_ - which offers a test based on the Myers-Briggs categories - I received 78% intuition which would put me between INTP and INFP. Reading through the types’ explanations, I definitely feel like I relate very strongly with the INTP personality type above the others.
 
 ### Learning Style Test
-![Results](\images\visual.png)
+![Results](images/visual.png)
 
 According to the learning style test available on the website _how-to-study_, I am a Visual learner. This was interesting to me, as I have always thought that I am more of a Tactile/Kinesthetic learner, since I like to test things through a practical approach to learn.
 
 ### Big Five Personality Test
-![Results](\images\bigfive.png)
+![Results](images/bigfive.png)
 
 This test seems to reflect my results from the Myers-Briggs test fairly accurately. The coloured bars represent my level of the particular factor, and the numbers on the right hand side represent the percentage of people who i score higher than in that factor. Seeing as conscientiousness represents organisation and diligence, I’m pretty surprised that so many people score so much higher than me, when I received almost middle range.
 
