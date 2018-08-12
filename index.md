@@ -39,9 +39,10 @@ I hope to develop the skills needed to kick start a career in games development 
 
 ## Ideal Job
 # Junior Front-end Developer
-[View job on seek](https://www.seek.com.au/job/36927758?type=standard)
 
 ![Screenshot of Job](images/jobdescription.PNG)
+
+[View job on seek](https://www.seek.com.au/job/36927758?type=standard)
 
 ### Job Description
 The job is to be a junior front-end developer for a digital agency. You would be working under senior and mid level front-end developers, and receive tasks from them. You would work with creative and digital teams to convert ideas into presented visual material using a variety of methods.
