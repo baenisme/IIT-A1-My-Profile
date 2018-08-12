@@ -54,35 +54,35 @@ This job appeals to me because I am very interested in front end development. Iâ
 
 - Intermediate level in the following programs / methods:
 
-  -- **Adobe Photoshop**
+  - **Adobe Photoshop**
 
-  -- **Adobe Illustrator**
+  - **Adobe Illustrator**
 
-  -- **Adobe InDesign**
+  - **Adobe InDesign**
 
-  -- Typography
+  - Typography
 
-  -- Adobe Edge
+  - Adobe Edge
   
-  -- HTML5
+  - HTML5
   
-  -- 3rd Party Platform Double Click Studio
+  - 3rd Party Platform Double Click Studio
   
-  -- 3rd Party Platform Sizmek
+  - 3rd Party Platform Sizmek
   
-  -- Google Web Designer
+  - Google Web Designer
   
-  -- Adobe Dreamweaver
+  - Adobe Dreamweaver
   
-  -- HTML
+  - HTML
   
-  -- CSS
+  - CSS
   
-  -- XML
+  - XML
   
-  -- **JavaScript**
+  - **JavaScript**
   
-  -- Adobe After Effects
+  - Adobe After Effects
 
 I have highlighted the components which I currently consider myself having sufficient knowledge in. I have skills that would help in general with the position and job environment, such as good interpersonal and communication skills developed through various customer service and sales positions. I also have a great eye for detail which I imagine would help in this kind of role.
 
