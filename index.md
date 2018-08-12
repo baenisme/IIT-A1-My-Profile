@@ -1,4 +1,9 @@
-# Personal Information
+# Introduction to Information to Technology
+
+# Assignment 1: My Profile
+
+
+## Personal Information
 
 **Name:** Benjamin Gough
 
@@ -31,11 +36,13 @@ I hope to develop the skills needed to kick start a career in games development 
 
 
 ## Ideal Job
-[Link](https://www.seek.com.au/job/36927758?type=standard)
-![Image](\images\jobdescription.png)
+[Link to Job](https://www.seek.com.au/job/36927758?type=standard)
+
+![Screenshot of Job](\images\jobdescription.png)
 
 ### Job Description
 The job is to be a junior front-end developer for a digital agency. You would be working under senior and mid level front-end developers, and receive tasks from them. You would work with creative and digital teams to convert ideas into presented visual material using a variety of methods.
+
 This job appeals to me because I am very interested in front end development. I’ve always been passionate about design, and love the juncture between it and programming. I have used JavaScript and a library called p5.js to create interactive visual projects, and have really enjoyed this.
 
 ### Skills & Experience Needed:
@@ -59,23 +66,29 @@ This job appeals to me because I am very interested in front end development. I�
 -- Adobe After Effects
 
 I have highlighted the components which I currently consider myself having sufficient knowledge in. I have skills that would help in general with the position and job environment, such as good interpersonal and communication skills developed through various customer service and sales positions. I also have a great eye for detail which I imagine would help in this kind of role.
+
 I can use youtube tutorial videos, or attend short courses to become acquainted with the rest of the methods. During my bachelor degree here at RMIT I imagine that I will be learning languages such as HTML and CSS. I will also gain knowledge of current web technologies and current practices throughout the degree.
+
 To get a year’s experience within an advertising or digital agency, I can pursue an internship while studying so that I could apply for this job as soon as i finish my degree.
+
 I would draft a portfolio of my past work to express my literacy in the variety of areas that are required.
 
 
 ## Personal Profile
 
 ### Myers-Briggs Results
-![Image](\images\myersbriggs.png)
+![Results](\images\myersbriggs.png)
+
 These results were from the website _https://mbti.bz/en_. Since I place between 50% - 54% in Sensation/Intuition and Feeling/Thinking my personality type could be undetermined, but this website categorised me as ISFP. On the website _16personalities_ - which offers a test based on the Myers-Briggs categories - I received 78% intuition which would put me between INTP and INFP. Reading through the types’ explanations, I definitely feel like I relate very strongly with the INTP personality type above the others.
 
 ### Learning Style Test
-![Image](\images\learningstyle.png)
+![Results](\images\learningstyle.png)
+
 According to the learning style test available on the website _how-to-study_, I am a Visual learner. This was interesting to me, as I have always thought that I am more of a Tactile/Kinesthetic learner, since I like to test things through a practical approach to learn.
 
 ### Big Five Personality Test
-![Image](\images\bigfive.png)
+![Results](\images\bigfive.png)
+
 This test seems to reflect my results from the Myers-Briggs test fairly accurately. The coloured bars represent my level of the particular factor, and the numbers on the right hand side represent the percentage of people who i score higher than in that factor. Seeing as conscientiousness represents organisation and diligence, I’m pretty surprised that so many people score so much higher than me, when I received almost middle range.
 
 ### Analysis
