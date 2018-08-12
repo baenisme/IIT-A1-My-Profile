@@ -82,7 +82,7 @@ I would draft a portfolio of my past work to express my literacy in the variety 
 These results were from the website _https://mbti.bz/en_. Since I place between 50% - 54% in Sensation/Intuition and Feeling/Thinking my personality type could be undetermined, but this website categorised me as ISFP. On the website _16personalities_ - which offers a test based on the Myers-Briggs categories - I received 78% intuition which would put me between INTP and INFP. Reading through the types’ explanations, I definitely feel like I relate very strongly with the INTP personality type above the others.
 
 ### Learning Style Test
-![Results](\images\learningstyle.png)
+![Results](\images\visual.png)
 
 According to the learning style test available on the website _how-to-study_, I am a Visual learner. This was interesting to me, as I have always thought that I am more of a Tactile/Kinesthetic learner, since I like to test things through a practical approach to learn.
 
