@@ -3,6 +3,7 @@
 # Assignment 1: My Profile
 
 
+
 ## Personal Information
 
 **Name:** Benjamin Gough
@@ -22,6 +23,7 @@
 **Interesting Fact:** Half of my family lives in Italy
 
 
+
 ## Interest in IT
 
 ### What is your interest in IT? When did your interest in IT start? Outline your IT experience (if any)
@@ -30,9 +32,9 @@ I have always been interested in new and exciting technology, and watching the d
 ### Why did you choose to come to RMIT?
 I chose to come to RMIT because I believe the university will provide me with the necessary facilities and knowledge to develop my expertise and begin a promising career in the area. I had heard great things about the facilities and quality of the technical programs that it offers via word of mouth of people I trust. From that point, I liked the sound of the course / subject outlines that I read through for the course.
 
-
 ### What do you expect to learn during your studies? 
 I hope to develop the skills needed to kick start a career in games development or front-end programming. I also hope to develop skills needed to build an expansive portfolio in a variety of different practices and programming languages. 
+
 
 
 ## Ideal Job
@@ -74,6 +76,7 @@ To get a year’s experience within an advertising or digital agency, I can purs
 I would draft a portfolio of my past work to express my literacy in the variety of areas that are required.
 
 
+
 ## Personal Profile
 
 ### Myers-Briggs Results
@@ -93,6 +96,7 @@ This test seems to reflect my results from the Myers-Briggs test fairly accurate
 
 ### Analysis
 These results generally mean that I would be pretty cooperative in a team, happy to go along with anything as long as its cohesive. When it comes down to it I do prefer working alone over working in a team, which is reflected by my introversion levels in these tests. However, I’m still happy to play the part of mediator in a team, often seeing the middle ground which is shown by my mid-ranged results in the Myers-Briggs categories. Still though, I do have ideas and input that can be unique and outside of the box, so team members that are somewhat open minded would be preferred.
+
 
 
 ## Project Ideas
@@ -122,6 +126,8 @@ Any Java IDE (integrated development environment) would suffice for writing the 
 
 ### Outcome
 If the project is successful, ideally it would be featured on game distribution platform Steam. It would offer a new and exciting entry into the expansive roguelike genre, with multiplayer compatibility that is essentially unique in its core functionality. It would give people a fun and new multiplayer game that can be played casually with a few friends, or more intensely with the goal to surpass their previous attempts. The roguelike genre means that players can join in with their friends regardless of how much time each of them has put into the game. 
+
+
 
 ## Micro Credential
 
