@@ -38,9 +38,10 @@ I hope to develop the skills needed to kick start a career in games development 
 
 
 ## Ideal Job
-[Link to Job](https://www.seek.com.au/job/36927758?type=standard)
+# Junior Front-end Developer
+[View job on seek](https://www.seek.com.au/job/36927758?type=standard)
 
-![Screenshot of Job](images/jobdescription.png)
+![Screenshot of Job](images/jobdescription.PNG)
 
 ### Job Description
 The job is to be a junior front-end developer for a digital agency. You would be working under senior and mid level front-end developers, and receive tasks from them. You would work with creative and digital teams to convert ideas into presented visual material using a variety of methods.
@@ -97,7 +98,7 @@ I would draft a portfolio of my past work to express my literacy in the variety 
 ## Personal Profile
 
 ### Myers-Briggs Results
-![Results](images/myersbriggs.png)
+![Results](images/myersbriggs.PNG)
 
 These results were from the website _https://mbti.bz/en_. Since I place between 50% - 54% in Sensation/Intuition and Feeling/Thinking my personality type could be undetermined, but this website categorised me as ISFP. On the website _16personalities_ - which offers a test based on the Myers-Briggs categories - I received 78% intuition which would put me between INTP and INFP. Reading through the types’ explanations, I definitely feel like I relate very strongly with the INTP personality type above the others.
 
