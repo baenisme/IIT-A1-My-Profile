@@ -1,12 +1,19 @@
 # Personal Information
 
 **Name:** Benjamin Gough
+
 **Student Number:** S3729107
+
 **Email Address:** s3729107@student.rmit.edu.au
+
 **Nationality:** Australian
+
 **Education:** Completed HSC, studied a Bachelor of Communication (Sound and Music Design) for one year
+
 **Languages Spoken:** English
+
 **Hobbies:** Producing music, gaming, going to music events
+
 **Interesting Fact:** Half of my family lives in Italy
 
 
