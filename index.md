@@ -49,23 +49,40 @@ This job appeals to me because I am very interested in front end development. Iâ
 
 ### Skills & Experience Needed:
 - At least one yearâ€™s work experience with an advertising or digital agency.
+
 - Good understanding of current web technology and trends in digital development, and best current practices.
+
 - Intermediate level in the following programs / methods:
--- **Adobe Photoshop**
--- **Adobe Illustrator**
--- **Adobe InDesign**
--- Typography
--- Adobe Edge
--- HTML5
--- 3rd Party Platform Double Click Studio
--- 3rd Party Platform Sizmek
--- Google Web Designer
--- Adobe Dreamweaver
--- HTML
--- CSS
--- XML
--- **JavaScript**
--- Adobe After Effects
+
+  -- **Adobe Photoshop**
+
+  -- **Adobe Illustrator**
+
+  -- **Adobe InDesign**
+
+  -- Typography
+
+  -- Adobe Edge
+  
+  -- HTML5
+  
+  -- 3rd Party Platform Double Click Studio
+  
+  -- 3rd Party Platform Sizmek
+  
+  -- Google Web Designer
+  
+  -- Adobe Dreamweaver
+  
+  -- HTML
+  
+  -- CSS
+  
+  -- XML
+  
+  -- **JavaScript**
+  
+  -- Adobe After Effects
 
 I have highlighted the components which I currently consider myself having sufficient knowledge in. I have skills that would help in general with the position and job environment, such as good interpersonal and communication skills developed through various customer service and sales positions. I also have a great eye for detail which I imagine would help in this kind of role.
 
